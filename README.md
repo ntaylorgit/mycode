@@ -3,6 +3,7 @@
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
 
+Learning version control
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
@@ -20,4 +21,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **Nikki Taylor** - *Initial work* - [YourWebsite](https://example.com/)
